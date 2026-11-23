@@ -1,0 +1,9 @@
+Package: com.hama.vip
+Name: hama
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Custom hama style design and text UI tweak.
+Maintainer: hama
+Author: hama
+Section: Tweaks
